@@ -26,7 +26,7 @@ function Index() {
     const carouselProperties = {
         slidesToShow: logos.length < 5 ? logos.length : 5,
         centerMode: false,
-        // centerPadding: "170px",
+        // centerPadding: "20px",
         rows: 1,
         responsive: [
             {
